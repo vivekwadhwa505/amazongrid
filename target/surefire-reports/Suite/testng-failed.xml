@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" verbose="0">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Illustartion.Chrome2"/>
+      <class name="Illustartion.Edge2"/>
+      <class name="Illustartion.Firefox2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
